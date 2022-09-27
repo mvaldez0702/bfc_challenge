@@ -1,5 +1,5 @@
 # bfc_challenge
 
-npm instal
+npm install
 
 npm run dev
